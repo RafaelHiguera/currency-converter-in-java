@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4199e0c5-c49f-467b-94c1-38f575c328cd" name="Default Changelist" comment="" />
+    <list default="true" id="4199e0c5-c49f-467b-94c1-38f575c328cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/BoiteBlanche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/BoiteBlanche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/BoiteNoire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/BoiteNoire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$apport.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~WRL2851.tmp" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,15 +18,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/BoiteNoire.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+            <state relative-caret-position="535">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1460#1461#0" expanded="true" />
-                <element signature="e#1557#1558#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/BoiteBlanche.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1054">
+              <caret line="70" column="59" selection-start-line="70" selection-start-column="59" selection-end-line="70" selection-end-column="59" />
+              <folding>
+                <element signature="e#1794#1795#0" expanded="true" />
+                <element signature="e#1863#1864#0" expanded="true" />
+                <element signature="e#1926#1927#0" expanded="true" />
+                <element signature="e#1995#1996#0" expanded="true" />
+                <element signature="e#2066#2067#0" expanded="true" />
+                <element signature="e#2135#2136#0" expanded="true" />
+                <element signature="e#2192#2193#0" expanded="true" />
+                <element signature="e#2261#2262#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -28,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/currencyConverter/Currency.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="104" column="54" lean-forward="true" selection-start-line="104" selection-start-column="54" selection-end-line="104" selection-end-column="54" />
+            <state relative-caret-position="588">
+              <caret line="121" column="25" selection-start-line="121" selection-start-column="25" selection-end-line="121" selection-end-column="25" />
               <folding>
                 <element signature="e#2978#2988#0" expanded="true" />
               </folding>
@@ -38,19 +62,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/currencyConverter/CurrencyConverter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/currencyConverter/MainWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="172" column="117" selection-start-line="172" selection-start-column="117" selection-end-line="172" selection-end-column="117" />
+            <state relative-caret-position="571">
+              <caret line="190" column="40" selection-start-line="190" selection-start-column="40" selection-end-line="190" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -71,11 +86,15 @@
       <find>syste</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/BoiteNoire.java" />
         <option value="$PROJECT_DIR$/src/currencyConverter/MainWindow.java" />
+        <option value="$PROJECT_DIR$/src/test/BoiteBlanche.java" />
+        <option value="$PROJECT_DIR$/src/test/BoiteNoire.java" />
       </list>
     </option>
   </component>
@@ -85,6 +104,7 @@
     <option name="width" value="1294" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -94,23 +114,23 @@
         <subPane>
           <expand>
             <path>
-              <item name="tp3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp3" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-converter-in-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="currency-converter-in-java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tp3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp3" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-converter-in-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="currency-converter-in-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tp3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp3" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-converter-in-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="currency-converter-in-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="currencyConverter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tp3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp3" type="462c0819:PsiDirectoryNode" />
+              <item name="currency-converter-in-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="currency-converter-in-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -118,8 +138,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,6 +147,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -150,6 +171,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BoiteBlanche" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.BoiteBlanche" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BoiteNoire" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tp3" />
       <extension name="coverage">
@@ -168,10 +204,12 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.BoiteNoire" />
+      <item itemvalue="JUnit.BoiteBlanche" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.BoiteNoire" />
+        <item itemvalue="JUnit.BoiteBlanche" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -190,73 +228,66 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BoiteNoire - 2020.11.27 at 10h 22m 47s.xml">
+    <history-entry file="BoiteBlanche - 2020.12.02 at 20h 49m 14s.xml">
+      <configuration name="BoiteBlanche" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BoiteBlanche - 2020.12.02 at 20h 49m 31s.xml">
+      <configuration name="BoiteBlanche" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BoiteBlanche - 2020.12.02 at 20h 49m 46s.xml">
+      <configuration name="BoiteBlanche" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BoiteBlanche - 2020.12.02 at 20h 56m 26s.xml">
+      <configuration name="BoiteBlanche" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BoiteBlanche - 2020.12.02 at 21h 00m 02s.xml">
+      <configuration name="BoiteBlanche" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BoiteBlanche - 2020.12.02 at 21h 00m 12s.xml">
+      <configuration name="BoiteBlanche" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BoiteBlanche - 2020.12.02 at 21h 00m 49s.xml">
+      <configuration name="BoiteBlanche" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BoiteNoire - 2020.12.02 at 21h 00m 55s.xml">
       <configuration name="BoiteNoire" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BoiteNoire - 2020.11.27 at 10h 24m 52s.xml">
+    <history-entry file="BoiteNoire - 2020.12.02 at 21h 01m 20s.xml">
       <configuration name="BoiteNoire" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BoiteNoire - 2020.11.27 at 10h 25m 54s.xml">
-      <configuration name="BoiteNoire" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BoiteNoire - 2020.11.27 at 10h 43m 18s.xml">
-      <configuration name="BoiteNoire" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BoiteNoire - 2020.11.27 at 11h 05m 51s.xml">
-      <configuration name="BoiteNoire" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BoiteNoire - 2020.11.27 at 11h 06m 42s.xml">
-      <configuration name="BoiteNoire" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BoiteNoire - 2020.11.27 at 11h 07m 09s.xml">
-      <configuration name="BoiteNoire" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BoiteNoire - 2020.11.27 at 11h 07m 30s.xml">
-      <configuration name="BoiteNoire" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BoiteNoire - 2020.11.27 at 11h 08m 05s.xml">
-      <configuration name="BoiteNoire" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BoiteNoire - 2020.11.27 at 11h 08m 24s.xml">
+    <history-entry file="BoiteNoire - 2020.12.02 at 21h 01m 39s.xml">
       <configuration name="BoiteNoire" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25198728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32969603" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32969603" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32969603" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32969603" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/currencyConverter/JTextFieldLimit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -271,13 +302,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/currencyConverter/MainWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="172" column="117" selection-start-line="172" selection-start-column="117" selection-end-line="172" selection-end-column="117" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/currencyConverter/CurrencyConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -285,24 +309,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../devoir 1/dev1/jfreechart-master/src/main/java/org/jfree/chart/util/PaintList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="62" lean-forward="true" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/currencyConverter/Currency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="104" column="54" lean-forward="true" selection-start-line="104" selection-start-column="54" selection-end-line="104" selection-end-column="54" />
+        <state relative-caret-position="588">
+          <caret line="121" column="25" selection-start-line="121" selection-start-column="25" selection-end-line="121" selection-end-column="25" />
           <folding>
             <element signature="e#2978#2988#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/currencyConverter/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="190" column="40" selection-start-line="190" selection-start-column="40" selection-end-line="190" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/BoiteNoire.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        <state relative-caret-position="535">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1460#1461#0" expanded="true" />
-            <element signature="e#1557#1558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/BoiteBlanche.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="70" column="59" selection-start-line="70" selection-start-column="59" selection-end-line="70" selection-end-column="59" />
+          <folding>
+            <element signature="e#1794#1795#0" expanded="true" />
+            <element signature="e#1863#1864#0" expanded="true" />
+            <element signature="e#1926#1927#0" expanded="true" />
+            <element signature="e#1995#1996#0" expanded="true" />
+            <element signature="e#2066#2067#0" expanded="true" />
+            <element signature="e#2135#2136#0" expanded="true" />
+            <element signature="e#2192#2193#0" expanded="true" />
+            <element signature="e#2261#2262#0" expanded="true" />
           </folding>
         </state>
       </provider>

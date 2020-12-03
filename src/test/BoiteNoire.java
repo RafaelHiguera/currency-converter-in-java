@@ -37,7 +37,7 @@ public class BoiteNoire {
 
     @Test
     public void testNormalInput() {
-        assertEquals(usdToEuroToPoundToYuan(normalInput), usdToFrancToYenToYuan(normalInput));
+        assertEquals((int)usdToEuroToPoundToYuan(normalInput), (int)usdToFrancToYenToYuan(normalInput));
     }
 
     @Test
@@ -47,7 +47,7 @@ public class BoiteNoire {
 
     @Test
     public void testExtremeUpperInput() {
-        assertEquals(usdToEuroToPoundToYuan(extremeUpperInput), usdToFrancToYenToYuan(extremeUpperInput));
+        assertEquals((int)usdToEuroToPoundToYuan(extremeUpperInput), (int)usdToFrancToYenToYuan(extremeUpperInput));
     }
 
     @Test
